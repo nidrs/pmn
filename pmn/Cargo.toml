@@ -1,0 +1,18 @@
+[package]
+name = "pmn"
+version = "0.0.0"
+authors = ["WumaCoder <wumacoder@gmail.com>"]
+description = "a nidrs process manager."
+edition = "2021"
+keywords = ["nidrs", "process"]
+categories = [
+    "development-tools",
+    "utilities",
+    "system-programming",
+    "command-line-utilities",
+    "process-management",
+    "system",
+]
+homepage = "https://github.com/nidrs/pmn.git"
+repository = "https://github.com/nidrs/pmn.git"
+license = "MIT"
