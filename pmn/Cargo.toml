@@ -10,8 +10,7 @@ categories = [
     "utilities",
     "system-programming",
     "command-line-utilities",
-    "process-management",
-    "system",
+    "process-management"
 ]
 homepage = "https://github.com/nidrs/pmn.git"
 repository = "https://github.com/nidrs/pmn.git"
